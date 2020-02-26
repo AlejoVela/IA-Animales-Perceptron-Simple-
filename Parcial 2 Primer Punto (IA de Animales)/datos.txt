@@ -6,797 +6,252 @@ Domesticable: 1
 Tamano de animales que caza: 1 
 Su tamaño es: 1 
 Su habitad es: 1 
-Peso de entrada domesticable: 1 
-Peso de entrada Tamano de animales que caza: 1 
-Peso de entrada Su tamaño es: 1 
-Peso de entrada Su habitad es: 1 
+Peso de entrada domesticable: 0.5 
+Peso de entrada Tamano de animales que caza: 0.5 
+Peso de entrada Su tamaño es: 0.5 
+Peso de entrada Su habitad es: 0.5 
 Umbral: 1 
-Peso del umbral: 1 
+Peso del umbral: 0.5 
 Epoca: 0 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 5 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 2.5 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!!
- 
-Epoca: 1 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 5 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 2 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 5 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 3 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 5 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 4 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 5 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 5 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 5 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 6 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 5 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 7 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 5 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 8 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 5 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 9 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 5 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 10 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 5 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
  Estado inicial
  
-Nombre del animal: hiena 
-Domesticable: 1 
-Tamano de animales que caza: 0 
-Su tamaño es: 1 
-Su habitad es: 1 
-Peso de entrada domesticable: 1 
-Peso de entrada Tamano de animales que caza: 1 
-Peso de entrada Su tamaño es: 1 
-Peso de entrada Su habitad es: 1 
-Umbral: 1 
-Peso del umbral: 1 
-Epoca: 0 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 4 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!!
- 
-Epoca: 1 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 4 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 2 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 4 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 3 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 4 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 4 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 4 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 5 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 4 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 6 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 4 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 7 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 4 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- Estado inicial
- 
-Nombre del animal: gato 
+Nombre del animal: Hiena 
 Domesticable: 0 
 Tamano de animales que caza: 0 
 Su tamaño es: 0 
-Su habitad es: 0 
-Peso de entrada domesticable: 1 
-Peso de entrada Tamano de animales que caza: 1 
-Peso de entrada Su tamaño es: 1 
-Peso de entrada Su habitad es: 1 
+Su habitad es: 1 
+Peso de entrada domesticable: 0.5 
+Peso de entrada Tamano de animales que caza: 0.5 
+Peso de entrada Su tamaño es: 0.5 
+Peso de entrada Su habitad es: 0.5 
 Umbral: 1 
-Peso del umbral: 1 
+Peso del umbral: 0.5 
 Epoca: 0 
 La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 1 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!!
+ Estado inicial
+ 
+Nombre del animal: Oso Hormiguero 
+Domesticable: 1 
+Tamano de animales que caza: 0 
+Su tamaño es: 1 
+Su habitad es: 1 
+Peso de entrada domesticable: 0.5 
+Peso de entrada Tamano de animales que caza: 0.5 
+Peso de entrada Su tamaño es: 0.5 
+Peso de entrada Su habitad es: 0.5 
+Umbral: 1 
+Peso del umbral: 0.5 
+Epoca: 0 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 2 
+Usando la funcion escalonada el resultado queda en: 1 
+El animal es peligroso!!, el niño debe correr!!
  
 Epoca: 1 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.97 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.97 
+Peso de entrada domesticable corregido: 0.47 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.47 
+Peso de entrada Su habitad corregido es: 0.47 
+Peso del umbral corregido: 0.47 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 1.88 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 2 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.94 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.94 
+Peso de entrada domesticable corregido: 0.44 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.44 
+Peso de entrada Su habitad corregido es: 0.44 
+Peso del umbral corregido: 0.44 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 1.76 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 3 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.91 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.91 
+Peso de entrada domesticable corregido: 0.41 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.41 
+Peso de entrada Su habitad corregido es: 0.41 
+Peso del umbral corregido: 0.41 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 1.64 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 4 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.88 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.88 
+Peso de entrada domesticable corregido: 0.38 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.38 
+Peso de entrada Su habitad corregido es: 0.38 
+Peso del umbral corregido: 0.38 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 1.52 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 5 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.85 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.85 
+Peso de entrada domesticable corregido: 0.35 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.35 
+Peso de entrada Su habitad corregido es: 0.35 
+Peso del umbral corregido: 0.35 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 1.4 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 6 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.82 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.82 
+Peso de entrada domesticable corregido: 0.32 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.32 
+Peso de entrada Su habitad corregido es: 0.32 
+Peso del umbral corregido: 0.32 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 1.28 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 7 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.79 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.79 
+Peso de entrada domesticable corregido: 0.29 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.29 
+Peso de entrada Su habitad corregido es: 0.29 
+Peso del umbral corregido: 0.29 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 1.16 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 8 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.76 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.76 
+Peso de entrada domesticable corregido: 0.26 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.26 
+Peso de entrada Su habitad corregido es: 0.26 
+Peso del umbral corregido: 0.26 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 1.04 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 9 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.73 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.73 
+Peso de entrada domesticable corregido: 0.23 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.23 
+Peso de entrada Su habitad corregido es: 0.23 
+Peso del umbral corregido: 0.23 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.92 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 10 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.7 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.7 
+Peso de entrada domesticable corregido: 0.2 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.2 
+Peso de entrada Su habitad corregido es: 0.2 
+Peso del umbral corregido: 0.2 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.8 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 11 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.67 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.67 
+Peso de entrada domesticable corregido: 0.17 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.17 
+Peso de entrada Su habitad corregido es: 0.17 
+Peso del umbral corregido: 0.17 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.68 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 12 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.64 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.64 
+Peso de entrada domesticable corregido: 0.14 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.14 
+Peso de entrada Su habitad corregido es: 0.14 
+Peso del umbral corregido: 0.14 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.56 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 13 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.61 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.61 
+Peso de entrada domesticable corregido: 0.11 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.11 
+Peso de entrada Su habitad corregido es: 0.11 
+Peso del umbral corregido: 0.11 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.44 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 14 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.58 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.58 
+Peso de entrada domesticable corregido: 0.08 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.08 
+Peso de entrada Su habitad corregido es: 0.08 
+Peso del umbral corregido: 0.08 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.32 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 15 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.55 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.55 
+Peso de entrada domesticable corregido: 0.05 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.05 
+Peso de entrada Su habitad corregido es: 0.05 
+Peso del umbral corregido: 0.05 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.2 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 16 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.52 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.52 
+Peso de entrada domesticable corregido: 0.02 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: 0.02 
+Peso de entrada Su habitad corregido es: 0.02 
+Peso del umbral corregido: 0.02 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.0799999 
 Usando la funcion escalonada el resultado queda en: 1 
 El animal es peligroso!!, el niño debe correr!! 
 El estado se mantiene respecto a estados anteriores!!
  
 Epoca: 17 
 Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.49 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.49 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 18 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.46 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.46 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 19 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.43 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.43 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 20 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.4 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.4 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 21 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.37 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.37 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 22 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.34 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.34 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 23 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.31 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.31 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 24 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.28 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.28 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 25 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.25 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.25 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 26 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.22 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.22 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 27 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.19 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.19 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 28 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.16 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.16 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 29 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.13 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.13 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 30 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.1 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.1 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 31 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.0700004 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.0700004 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 32 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.0400004 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.0400004 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 33 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: 0.0100004 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 0.0100004 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 34 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: -0.0199996 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = -0.0199996 
+Peso de entrada domesticable corregido: -0.01 
+Peso de entrada Tamano de animales que caza corregido: 0.5 
+Peso de entrada Su tamaño corregido es: -0.01 
+Peso de entrada Su habitad corregido es: -0.01 
+Peso del umbral corregido: -0.01 
+La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = -0.0400001 
 Usando la funcion escalonada el resultado queda en: 0 
 El animal no es peligroso, el niño pude estar tranquilo 
 El estado ha cambiado respecto a estados anteriores!!
 El estado ha pasado de 1 a 0
- 
-Epoca: 35 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: -0.0199996 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = -0.0199996 
-Usando la funcion escalonada el resultado queda en: 0 
-El animal no es peligroso, el niño pude estar tranquilo 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 36 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: -0.0199996 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = -0.0199996 
-Usando la funcion escalonada el resultado queda en: 0 
-El animal no es peligroso, el niño pude estar tranquilo 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 37 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: -0.0199996 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = -0.0199996 
-Usando la funcion escalonada el resultado queda en: 0 
-El animal no es peligroso, el niño pude estar tranquilo 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 38 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: -0.0199996 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = -0.0199996 
-Usando la funcion escalonada el resultado queda en: 0 
-El animal no es peligroso, el niño pude estar tranquilo 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 39 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: -0.0199996 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = -0.0199996 
-Usando la funcion escalonada el resultado queda en: 0 
-El animal no es peligroso, el niño pude estar tranquilo 
-El estado se mantiene respecto a estados anteriores!!
- Estado inicial
- 
-Nombre del animal: tigre 
-Domesticable: 1 
-Tamano de animales que caza: 1 
-Su tamaño es: 0 
-Su habitad es: 1 
-Peso de entrada domesticable: 1 
-Peso de entrada Tamano de animales que caza: 1 
-Peso de entrada Su tamaño es: 1 
-Peso de entrada Su habitad es: 1 
-Umbral: 1 
-Peso del umbral: -0.0199996 
-Epoca: 0 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 2.98 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!!
- 
-Epoca: 1 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: -0.0199996 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 2.98 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 2 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: -0.0199996 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 2.98 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 3 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: -0.0199996 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 2.98 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 4 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: -0.0199996 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 2.98 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!
- 
-Epoca: 5 
-Correcion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi 
-Peso de entrada domesticable corregido: 1 
-Peso de entrada Tamano de animales que caza corregido: 1 
-Peso de entrada Su tamaño corregido es: 1 
-Peso de entrada Su habitad corregido es: 1 
-Peso del umbral corregido: -0.0199996 
-La sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = 2.98 
-Usando la funcion escalonada el resultado queda en: 1 
-El animal es peligroso!!, el niño debe correr!! 
-El estado se mantiene respecto a estados anteriores!!

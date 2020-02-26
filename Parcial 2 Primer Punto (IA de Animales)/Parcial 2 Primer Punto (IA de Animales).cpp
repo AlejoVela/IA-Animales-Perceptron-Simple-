@@ -26,7 +26,7 @@ string ITS(int);
 
 */
 string dat;
-float pd = 1, pa = 1, pt = 1, ph = 1, umbral = 1 , pu = 1;                                         //pesos para los pesos de las caracteristica: pa = peso alimentación,..,etc.
+float pd = 0.5, pa = 0.5, pt = 0.5, ph = 0.5, umbral = 1 , pu = 0.5;                                         //pesos para los pesos de las caracteristica: pa = peso alimentación,..,etc.
 
 int main()
 {
@@ -52,7 +52,7 @@ int main()
 
         case 2:
 
-
+            lectura();
 
             break;
         case 3:
@@ -131,14 +131,14 @@ void ingresarAnimal() {
     datos += " \nSu tamaño es: "+ ITS(t);
     datos += " \nSu habitad es: " + ITS(h);
 
-    datos += " \nPeso de entrada domesticable: " + FTS(pd);                      //<------------
+    datos += " \nPeso de entrada domesticable: " + FTS(pd);                      
     datos += " \nPeso de entrada Tamano de animales que caza: " + FTS(pa);
     datos += " \nPeso de entrada Su tamaño es: " + FTS(pt);
     datos += " \nPeso de entrada Su habitad es: " + FTS(ph);
     datos += " \nUmbral: " + FTS(umbral);
     datos += " \nPeso del umbral: " + FTS(pu);
 
-    int op = 2;
+ 
     int epoca = 0;
     int estado; //para verificar si el estado cambio entre epocas
     int suma; //para llevar el resultado al usar la funcion escalonada en la sumatoria
@@ -170,13 +170,13 @@ void ingresarAnimal() {
         if (sumatoria > 0) {
             suma = 1;
             datos += " \nUsando la funcion escalonada el resultado queda en: " + ITS(suma);
-            datos += " \nEl animal es peligroso!!, el niño debe correr!!";
+            datos += " \nEl animal es peligroso!!, el chico debe correr!!";
             so = (float) suma;
         }
         else if(sumatoria < 1){
             suma = 0;
             datos += " \nUsando la funcion escalonada el resultado queda en: " + ITS(suma);
-            datos += " \nEl animal no es peligroso, el niño pude estar tranquilo";
+            datos += " \nEl animal no es peligroso, el chico pude estar tranquilo";
             so = (float) suma;
         }
 
@@ -195,13 +195,12 @@ void ingresarAnimal() {
         mostrar(datos);
         dat += "\n" + datos ;
 
-        op = pedirInt(" \n\nDesea realizar otra epoca? (1 para si, 0 para no)");
         datos = "";
 
         epoca++;
         estado = suma;
 
-    } while (op!=0);
+    } while (estado!=sd);
     
     escribir(dat);
 

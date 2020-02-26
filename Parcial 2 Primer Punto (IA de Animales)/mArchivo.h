@@ -55,7 +55,9 @@ void lectura() {
 
     archivo.close();//cerramos el archivo
 
-}
+    cout << " \n\n-->PARA UNA LECTURA MAS ORGANIZADA DE LOS DATOS<--\nAbrir el archivo Datos ubicado en la carpeta del codigo\n\n ";
+
+}                                    
 
 void addinfo() {
 
