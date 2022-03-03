@@ -26,7 +26,7 @@ string ITS(int);
 
 */
 string dat;
-float pd = 0.5, pa = 0.5, pt = 0.5, ph = 0.5, umbral = 1 , pu = 0.5;                                         //pesos para los pesos de las caracteristica: pa = peso alimentación,..,etc.
+float PesoDomesticable = 0.5, PesoAlimentacion = 0.5, PesoAltura = 0.5, PesoUrbano = 0.5, Umbral = 1 , PesoUmbral = 0.5;    //pesos para los pesos de las caracteristica: pa = peso alimentación,..,etc.
 
 int main()
 {
@@ -34,13 +34,13 @@ int main()
     init();                                                                 //inicializa la cabecera y la cola de la lista
 
     int op = 0;                                                             //variable para controlar las opciones del menu
-    string m = "Menu:\n1. Ingresar animal\n2. Consultar datos\n3. Salir";   //menu
+    string Menu = "Menu:\n1. Ingresar animal\n2. Consultar datos\n3. Salir";   //menu
 
     string name;
 
     do {
 
-        op = pedirInt(m);
+        op = pedirInt(Menu);
 
         switch (op)
         {
@@ -111,32 +111,32 @@ string FTS(float f) {
 }
 
 void ingresarAnimal() {
-    float so;//salida obtenida
+    float SalidaObtenida;//salida obtenida
 
     string datos = " Estado inicial\n";
 
-    string n = pedirString("ingresa el nombre el animal");
+    string NombreAnimal = pedirString("ingresa el nombre el animal");
 
-    int d = pedirInt("Domesticable = 0, no domesticable = 1");
-    int a = pedirInt("Caza animales: pequeños = 0, grandes = 1");
-    int t = pedirInt("Su tamaño es: pequeño = 0, grande = 1");
-    int h = pedirInt("Su habitad es: Urbano = 0, salvaje = 1");
-    int sd = pedirInt("Ingrese la salida deseada, peligroso = 1, inofensivo = 0");//salida deseada
-    Animal animal(n, d, a, t, h);
+    int Domestico = pedirInt("Domesticable = 0, no domesticable = 1");
+    int CazaAnimales = pedirInt("Caza animales: pequeños = 0, grandes = 1");
+    int Altura = pedirInt("Su tamaño es: pequeño = 0, grande = 1");
+    int Habitad = pedirInt("Su habitad es: Urbano = 0, salvaje = 1");
+    int SalidaDeseada = pedirInt("Ingrese la salida deseada, peligroso = 1, inofensivo = 0");//salida deseada
+    Animal animal(NombreAnimal, Domestico, CazaAnimales, Altura, Habitad);
     //guardar animal en la lista u operarlo
-    datos += " \nNombre del animal: " + n;
-    datos += " \nDomesticable: "+ ITS(d);
+    datos += " \nNombre del animal: " + NombreAnimal;
+    datos += " \nDomesticable: "+ ITS(Domestico);
 
-    datos += " \nTamano de animales que caza: "+ ITS(a);
-    datos += " \nSu tamaño es: "+ ITS(t);
-    datos += " \nSu habitad es: " + ITS(h);
+    datos += " \nTamano de animales que caza: "+ ITS(CazaAnimales);
+    datos += " \nSu tamaño es: "+ ITS(Altura);
+    datos += " \nSu habitad es: " + ITS(Habitad);
 
-    datos += " \nPeso de entrada domesticable: " + FTS(pd);                      
-    datos += " \nPeso de entrada Tamano de animales que caza: " + FTS(pa);
-    datos += " \nPeso de entrada Su tamaño es: " + FTS(pt);
-    datos += " \nPeso de entrada Su habitad es: " + FTS(ph);
-    datos += " \nUmbral: " + FTS(umbral);
-    datos += " \nPeso del umbral: " + FTS(pu);
+    datos += " \nPeso de entrada domesticable: " + FTS(PesoDomesticable);                      
+    datos += " \nPeso de entrada Tamano de animales que caza: " + FTS(PesoAlimentacion);
+    datos += " \nPeso de entrada Su tamaño es: " + FTS(PesoAltura);
+    datos += " \nPeso de entrada Su habitad es: " + FTS(PesoUrbano);
+    datos += " \nUmbral: " + FTS(Umbral);
+    datos += " \nPeso del umbral: " + FTS(PesoUmbral);
 
  
     int epoca = 0;
@@ -150,37 +150,39 @@ void ingresarAnimal() {
             //modificamos los pesos
             float w1, w2, w3, w4, wu;
             datos += " \nCorrecion de pesos con la ecuacion Wn = Wi + a*(sd - so)*Xi";
-            pd = pd + 0.03 * (float)((sd + (-1*so)) * d);
-            pa = pa + 0.03 * (float)((sd - so) * a);
-            pt = pt + 0.03 * (float)((sd - so) * t);
-            ph = ph + 0.03 * (float)((sd - so) * h);
-            pu = pu + 0.03 * (float)((sd - so) * umbral);
-            datos += " \nPeso de entrada domesticable corregido: " + FTS(pd);
-            datos += " \nPeso de entrada Tamano de animales que caza corregido: " + FTS(pa);
-            datos += " \nPeso de entrada Su tamaño corregido es: " + FTS(pt);
-            datos += " \nPeso de entrada Su habitad corregido es: " + FTS(ph);
-            datos += " \nPeso del umbral corregido: " + FTS(pu);
+            PesoDomesticable = PesoDomesticable + 0.03 * (float)((SalidaDeseada + (-1*SalidaObtenida)) * Domestico);
+            PesoAlimentacion = PesoAlimentacion + 0.03 * (float)((SalidaDeseada - SalidaObtenida) * CazaAnimales);
+            PesoAltura = PesoAltura + 0.03 * (float)((SalidaDeseada - SalidaObtenida) * Altura);
+            PesoUrbano = PesoUrbano + 0.03 * (float)((SalidaDeseada - SalidaObtenida) * Habitad);
+            PesoUmbral = PesoUmbral + 0.03 * (float)((SalidaDeseada - SalidaObtenida) * Umbral);
+            datos += " \nPeso de entrada domesticable corregido: " + FTS(PesoDomesticable);
+            datos += " \nPeso de entrada Tamano de animales que caza corregido: " + FTS(PesoAlimentacion);
+            datos += " \nPeso de entrada Su tamaño corregido es: " + FTS(PesoAltura);
+            datos += " \nPeso de entrada Su habitad corregido es: " + FTS(PesoUrbano);
+            datos += " \nPeso del umbral corregido: " + FTS(PesoUmbral);
 
             
         }
 
-        float sumatoria = (d*pd) + (a*pa) + (t*pt) + (h*+ph) + (umbral*pu);
+        float sumatoria = (Domestico*PesoDomesticable) + (CazaAnimales*PesoAlimentacion) + (Altura*PesoAltura) + (Habitad*+PesoUrbano) + (Umbral*PesoUmbral);
+        //float FuncionDeActivación = 1/(1+2.718^(-sumatoria))
         datos += " \nLa sumatoria de s = x1*w1 + x2*w2 + x3*w3 + x4*w4 +umbral*w0 = " + FTS(sumatoria);
 
+        //aqui se hace la comparacion
         if (sumatoria > 0) {
             suma = 1;
             datos += " \nUsando la funcion escalonada el resultado queda en: " + ITS(suma);
             datos += " \nEl animal es peligroso!!, el chico debe correr!!";
-            so = (float) suma;
+            SalidaObtenida = (float) suma;
         }
         else if(sumatoria < 1){
             suma = 0;
             datos += " \nUsando la funcion escalonada el resultado queda en: " + ITS(suma);
             datos += " \nEl animal no es peligroso, el chico pude estar tranquilo";
-            so = (float) suma;
+            SalidaObtenida = (float) suma;
         }
 
-        //si la epica ha cambiado!
+        //si la epoca ha cambiado!
         if (epoca > 0) {
             //verificamos el cambio respecto a epocas anteriores
             if (estado != suma) {
@@ -200,7 +202,7 @@ void ingresarAnimal() {
         epoca++;
         estado = suma;
 
-    } while (estado!=sd);
+    } while (estado!=SalidaDeseada);
     
     escribir(dat);
 
